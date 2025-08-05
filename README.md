@@ -4,7 +4,7 @@
 
 ## 演示视频
 
-https://github.com/BrooklynHHH/AI_Podcast/blob/main/AI_podcast.mp4?raw=true
+https://raw.githubusercontent.com/BrooklynHHH/AI_Podcast/main/AI_podcast.mp4
 
 > 💡 **提示**: 点击上面的链接可以直接观看演示视频
 
