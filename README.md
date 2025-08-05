@@ -4,10 +4,9 @@
 
 ## 演示视频
 
-<video width="100%" controls>
-  <source src="https://github.com/BrooklynHHH/AI_Podcast/raw/main/AI_podcast.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
+https://github.com/BrooklynHHH/AI_Podcast/assets/raw/main/AI_podcast.mp4
+
+> 💡 **提示**: 点击上面的链接可以直接观看演示视频
 
 ## 功能特性
 
