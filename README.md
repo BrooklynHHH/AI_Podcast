@@ -4,12 +4,16 @@
 
 ## 演示视频
 
+### 🎥 方式一：在线播放（推荐）
+
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/BrooklynHHH/AI_Podcast/main/AI_podcast.mp4" type="video/mp4">
-  您的浏览器不支持视频播放，请点击下方链接下载观看。
+  您的浏览器不支持视频播放，请使用下方下载链接。
 </video>
 
-> 💡 **提示**: 如果视频无法播放，请点击下方链接下载观看
+### 📥 方式二：直接下载
+
+> 💡 **提示**: 如果上方视频无法播放，请点击下方链接下载观看
 > 
 > [📥 下载演示视频](https://raw.githubusercontent.com/BrooklynHHH/AI_Podcast/main/AI_podcast.mp4)
 
