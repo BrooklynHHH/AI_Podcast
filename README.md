@@ -2,6 +2,13 @@
 
 一个基于AI的播客自动生成系统，用户输入问题或网址，系统自动生成单人或双人对话形式的播客音频。
 
+## 演示视频
+
+<video width="100%" controls>
+  <source src="https://github.com/BrooklynHHH/AI_Podcast/assets/raw/main/AI_podcast.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
 ## 功能特性
 
 - 🎙️ 支持单人播客和双人播客生成
