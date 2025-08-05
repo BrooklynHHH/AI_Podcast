@@ -1,0 +1,20 @@
+# 播客生成器配置文件示例
+# 请复制此文件并重命名为 single_config.yaml 或 double_config.yaml
+# 然后填入你的实际API密钥
+
+# 单人播客配置 (single_config.yaml)
+appid: "YOUR_APP_ID"
+token: "YOUR_TOKEN"
+cluster: "volcano_tts"
+voice_types:
+  female: "zh_female_tianmeitaozi_mars_bigtts"
+host: "openspeech.bytedance.com"
+
+# 双人播客配置 (double_config.yaml)
+# appid: "YOUR_APP_ID"
+# token: "YOUR_TOKEN"
+# cluster: "volcano_tts"
+# voice_types:
+#   male: "zh_male_wennuanahu_moon_bigtts"
+#   female: "zh_female_tianmeitaozi_mars_bigtts"
+# host: "openspeech.bytedance.com" 

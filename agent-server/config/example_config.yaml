@@ -1,0 +1,19 @@
+# 豆包TTS API配置示例
+# 请将以下占位符替换为你的实际API密钥
+
+appid: "YOUR_APP_ID"
+token: "YOUR_TOKEN"
+cluster: "volcano_tts"
+voice_types:
+  male: "zh_male_wennuanahu_moon_bigtts"
+  female: "zh_female_tianmeitaozi_mars_bigtts"
+host: "openspeech.bytedance.com"
+
+# 配置说明：
+# appid: 豆包TTS应用的APP ID
+# token: 豆包TTS应用的访问令牌
+# cluster: 集群名称，通常为"volcano_tts"
+# voice_types: 语音类型配置
+#   male: 男声音色ID
+#   female: 女声音色ID
+# host: 豆包TTS服务地址 
