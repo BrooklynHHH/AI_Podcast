@@ -4,9 +4,14 @@
 
 ## 演示视频
 
-https://raw.githubusercontent.com/BrooklynHHH/AI_Podcast/main/AI_podcast.mp4
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/BrooklynHHH/AI_Podcast/main/AI_podcast.mp4" type="video/mp4">
+  您的浏览器不支持视频播放，请点击下方链接下载观看。
+</video>
 
-> 💡 **提示**: 点击上面的链接可以直接观看演示视频
+> 💡 **提示**: 如果视频无法播放，请点击下方链接下载观看
+> 
+> [📥 下载演示视频](https://raw.githubusercontent.com/BrooklynHHH/AI_Podcast/main/AI_podcast.mp4)
 
 ## 功能特性
 
